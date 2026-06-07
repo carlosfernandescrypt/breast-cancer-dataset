@@ -3,7 +3,7 @@
 **Disciplina de Inteligência Artificial — Trabalho Prático em Grupo**
 **Grupo 6 — Breast Cancer Dataset (Classificação Binária)**
 
-**Integrantes:** _[Nomes dos integrantes]_
+**Integrantes:** Carlos, Pedro, Luiz, Victor, Vinicius e Wesley
 
 **Data:** Junho de 2026
 

@@ -21,7 +21,7 @@ style: |
 ## Breast Cancer Wisconsin (Diagnostic) Dataset
 
 **Grupo 6 — Classificação Binária**
-_[Nomes dos integrantes]_
+Carlos · Pedro · Luiz · Victor · Vinicius · Wesley
 
 Disciplina de Inteligência Artificial · Junho/2026
 
