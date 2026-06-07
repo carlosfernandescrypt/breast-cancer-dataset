@@ -1,0 +1,5 @@
+modelo,cv_acuracia_media,cv_acuracia_desvio,cv_f1_media,cv_f1_desvio
+Regressão Logística,0.9802,0.0128,0.9843,0.0101
+KNN,0.967,0.0209,0.9741,0.0164
+Random Forest,0.9582,0.0224,0.9668,0.0174
+SVM (RBF),0.9714,0.0179,0.9773,0.014
