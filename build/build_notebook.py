@@ -33,7 +33,7 @@ md(r"""
 
 **Disciplina:** Inteligência Artificial · **Tipo de problema:** Classificação binária
 
-**Grupo 6 — Integrantes:** _[Nomes dos integrantes]_
+**Grupo 2 — Integrantes:** Carlos Henrique Fernandes Rodrigues, Pedro Campos Canafistula Oliveira, Luiz Henrique Alves Rodrigues, Victor Nogueira da Nova Bonato, Vinicius Lacerda de Souza, Wesley Messias Moreira Brito e Lucas Ferreira Coelho
 
 ---
 

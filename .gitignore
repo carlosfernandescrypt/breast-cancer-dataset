@@ -22,3 +22,6 @@ Thumbs.db
 # Guia de apresentação interno (uso do grupo, não versionar)
 report/guia_apresentacao.md
 report/guia_apresentacao.pdf
+
+# Pacote de entrega (gerado)
+entregaveis_*.zip

@@ -4,7 +4,7 @@ Trabalho prático da disciplina de **Inteligência Artificial** — pipeline com
 ciência de dados sobre o **Breast Cancer Wisconsin (Diagnostic) Dataset** (Scikit-Learn),
 um problema de **classificação binária** (tumor **maligno** × **benigno**).
 
-**Grupo 6** · Integrantes: Carlos, Pedro, Luiz, Victor, Vinicius e Wesley
+**Grupo 2** · Integrantes: Carlos Henrique Fernandes Rodrigues, Pedro Campos Canafistula Oliveira, Luiz Henrique Alves Rodrigues, Victor Nogueira da Nova Bonato, Vinicius Lacerda de Souza, Wesley Messias Moreira Brito e Lucas Ferreira Coelho
 
 ## Visão geral
 

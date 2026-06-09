@@ -1,9 +1,9 @@
 # Classificação de Tumores Mamários com Machine Learning: Análise do Breast Cancer Wisconsin (Diagnostic) Dataset
 
 **Disciplina de Inteligência Artificial — Trabalho Prático em Grupo**
-**Grupo 6 — Breast Cancer Dataset (Classificação Binária)**
+**Grupo 2 — Breast Cancer Dataset (Classificação Binária)**
 
-**Integrantes:** Carlos, Pedro, Luiz, Victor, Vinicius e Wesley
+**Integrantes:** Carlos Henrique Fernandes Rodrigues, Pedro Campos Canafistula Oliveira, Luiz Henrique Alves Rodrigues, Victor Nogueira da Nova Bonato, Vinicius Lacerda de Souza, Wesley Messias Moreira Brito e Lucas Ferreira Coelho
 
 **Data:** Junho de 2026
 

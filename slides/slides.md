@@ -20,8 +20,8 @@ style: |
 # Explorando Toy Datasets do Scikit-Learn
 ## Breast Cancer Wisconsin (Diagnostic) Dataset
 
-**Grupo 6 — Classificação Binária**
-Carlos · Pedro · Luiz · Victor · Vinicius · Wesley
+**Grupo 2 — Classificação Binária**
+<span class="small">Carlos Henrique Fernandes Rodrigues · Pedro Campos Canafistula Oliveira · Luiz Henrique Alves Rodrigues<br>Victor Nogueira da Nova Bonato · Vinicius Lacerda de Souza · Wesley Messias Moreira Brito · Lucas Ferreira Coelho</span>
 
 Disciplina de Inteligência Artificial · Junho/2026
 
@@ -159,4 +159,4 @@ Melhores modelos: **apenas 2 erros em 114 amostras**.
 
 **Perguntas?**
 
-<span class="small">Grupo 6 — Breast Cancer Dataset · Inteligência Artificial</span>
+<span class="small">Grupo 2 — Breast Cancer Dataset · Inteligência Artificial</span>
